@@ -1,0 +1,13 @@
+*.o
+*.a
+*.map
+/nolibc/hello
+/nolibc/weak1
+/nolibc/weak2
+/nolibc/hook
+/nolibc/multi
+/nolibc/undef
+/nolibc/far
+/glibc/hg
+/glibc/hg_ld
+/nolibc/order

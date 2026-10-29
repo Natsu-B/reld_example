@@ -1,0 +1,3 @@
+[submodule "reld"]
+	path = reld
+	url = https://github.com/Natsu-B/reld
