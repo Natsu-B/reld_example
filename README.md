@@ -11,6 +11,10 @@ git clone https://github.com/Natsu-B/reld_example.git --recursive
 記事の実行例は Ubuntu 24.04（GCC 13.3、GNU Binutils 2.42、glibc 2.39）で確かめました。
 `nix develop` でも動きますが、GCC や glibc の版が違うので、アドレスなどの数値は記事と変わります。
 
+# 補足資料
+
+記事で紙面の都合により省いた内容は、[`doc/`](doc/README.md)にまとめています。
+
 # ディレクトリ
 
 ## nolibc：標準ライブラリを使わない小さな例
